@@ -1,6 +1,6 @@
 # Sales Performance Dashboard | Power BI | FY 2026
 
-![Dashboard Preview](Dashboard.png)
+![Dashboard Preview](Dashboard.png.png)
 
 ## 📊 Project Overview
 Interactive Power BI dashboard analyzing ₹16.6M sales revenue across 1,000 orders. Built for business stakeholders to track KPIs, identify regional performance gaps, and drive data-backed strategy.

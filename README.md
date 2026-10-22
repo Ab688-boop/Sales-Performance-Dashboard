@@ -49,4 +49,4 @@ Interactive Power BI dashboard analyzing ₹16.6M sales revenue across 1,000 ord
 - `Date Table` with MonthNo for proper sorting
 
 ---
-**Connect with me on [LinkedIn](www.linkedin.com/in/abhishek-kumar-a5a819283)** | Open to Data Analyst roles
+**Connect with me on [LinkedIn-www.linkedin.com/in/abhishek-kumar-a5a819283 | Open to Data Analyst roles
